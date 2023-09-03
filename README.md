@@ -2,4 +2,4 @@
 
 The lecture linked below Kurt Vonnegut, describes graphing the shapes of stories along two axes.
 
-https://www.youtube.com/watch?v=oP3c1h8v2ZQ
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oP3c1h8v2ZQ/0.jpg)](https://www.youtube.com/watch?v=oP3c1h8v2ZQ)
