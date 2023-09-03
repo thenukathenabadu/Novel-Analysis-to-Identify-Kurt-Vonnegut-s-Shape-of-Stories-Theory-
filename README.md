@@ -49,20 +49,17 @@ The lecture linked below Kurt Vonnegut, describes graphing the shapes of stories
   |:--:|
   | <b>ImageFig.1 - Cinderella’s Shape of Story</b>|
 
-<figure>
   ![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/444d6ab5-a968-4244-9820-e2d1059ed26b)
-  <figcaption>Boy Meets Girl’s Shape of Story</figcaption>
-</figure>
+  |:--:|
+  | <b>ImageFig.2 - Boy Meets Girl’s Shape of Story</b>|
 
-<figure>
- ![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/f3477cfc-1611-454a-b6f8-91f776f48d8d)
-  <figcaption>Man in a Hole’s Shape of Story </figcaption>
-</figure>
+  ![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/f3477cfc-1611-454a-b6f8-91f776f48d8d)
+  |:--:|
+  |<b>ImageFig.3 - Man in a Hole’s Shape of Story</b>|
 
-<figure>
- ![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/60809c2a-8938-4d12-9e11-71c7d7a97140)
-  <figcaption>New Testament’s Shape of Story </figcaption>
-</figure>
+  ![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/60809c2a-8938-4d12-9e11-71c7d7a97140)
+  |:--:|
+  |<b>ImageFig.4 -New Testament’s Shape of Story</b>|
 
 
 ## This project has two objectives as mentioned below.
