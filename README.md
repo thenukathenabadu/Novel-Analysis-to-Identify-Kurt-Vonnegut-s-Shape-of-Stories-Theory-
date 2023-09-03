@@ -6,3 +6,21 @@ This research delves into the realm of narrative analysis, examining the alignme
 The lecture linked below Kurt Vonnegut, describes graphing the shapes of stories along two axes.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oP3c1h8v2ZQ/0.jpg)](https://www.youtube.com/watch?v=oP3c1h8v2ZQ)
+
+
+![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/f653195c-b068-479f-860f-624892eec938)
+Cinderella’s Shape of Story 
+
+![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/444d6ab5-a968-4244-9820-e2d1059ed26b)
+Boy Meets Girl’s Shape of Story 
+
+![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/f3477cfc-1611-454a-b6f8-91f776f48d8d)
+Man in a Hole’s Shape of Story 
+
+![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/60809c2a-8938-4d12-9e11-71c7d7a97140)
+
+New Testament’s Shape of Story 
+
+
+
+
