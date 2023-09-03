@@ -73,14 +73,22 @@ Compile a comprehensive dataset of AI-generated novels, including narratives gen
 ## Analyzing the Sentimental Scores in Narratives and Smoothing using Rolling Mean:
 
 ![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/03f139fb-a019-4302-be96-ab42dafbd6e7)
+ |:--:|
+  | <b>ImageFig.5 - Sentiment Score Smooth using rolling mean example 1</b>|
 
 ![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/78d16896-07a1-4cce-bf76-1a0c29e926f2)
+ |:--:|
+  | <b>ImageFig.6 - Sentiment Score Smooth using rolling mean example 2</b>|
 
 ## Analyzing the Sentimental Scores in Narratives and Smoothing using Lowess Technique:
 
 ![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/7bfa9f7c-b968-40c4-9712-62946c434b30)
+ |:--:|
+  | <b>ImageFig.7 - Sentiment Score Smooth using Lowess example 1</b>|
 
 ![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/12c40b75-0898-4422-8fe6-50c74afe67e7)
+ |:--:|
+  | <b>ImageFig.8 - Sentiment Score Smooth using Lowess example 2</b>|
 
 
 
