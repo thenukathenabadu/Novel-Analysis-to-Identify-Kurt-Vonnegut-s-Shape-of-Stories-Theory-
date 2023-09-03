@@ -45,10 +45,9 @@ The lecture linked below Kurt Vonnegut, describes graphing the shapes of stories
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oP3c1h8v2ZQ/0.jpg)](https://www.youtube.com/watch?v=oP3c1h8v2ZQ)
 
 
-<figure>
   ![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/f653195c-b068-479f-860f-624892eec938)
-  <figcaption>Cinderella’s Shape of Story </figcaption>
-</figure>
+  |:--:|
+  | <b>ImageFig.1 - Cinderella’s Shape of Story</b>|
 
 <figure>
   ![image](https://github.com/thenukathenabadu/Novel-Analysis-to-Identify-Kurt-Vonnegut-s-Shape-of-Stories-Theory-/assets/18042336/444d6ab5-a968-4244-9820-e2d1059ed26b)
