@@ -6,10 +6,10 @@ This research delves into the realm of narrative analysis, examining the alignme
 ## About The content 
 --------------------
 1. Run the dependency Installation.ipynb which will install all the related libraries and packages for you
-2. A simple explanatory analysis of the books has been carried out in EDA.ipynb
+2. A simple exploratory analysis of the books has been carried out in EDA.ipynb
 3. In each century sentiment analysis has been carried out using NLTK and TextBlob libraries and then the Rolling mean and the Lowes techniques have been used to smooth the sentiment fluctuations. (Analysis with TEXTBLOB2.ipynb , Analysis with TEXTBLOB2.ipynb)
 4. A comparison of TextBlob and NLTK can be found in (comparison of Text blob vs NLTK.ipynb)
-5. Finally the comparison with Shapes of stories is carried out in Final Analysis Outputs.ipynb
+5. Finally the Correlation with Story arc shapes is carried out in Final Analysis Outputs.ipynb
 
 
 All the Book related to this project has been extracted from https://www.gutenberg.org/
